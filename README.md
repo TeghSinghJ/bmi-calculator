@@ -1,6 +1,7 @@
 # BMI Calculator
 ![image](https://github.com/TeghSinghJ/bmi-calculator/assets/81065036/c2ae3257-6e9a-4e18-af20-53916701dbc6)
 
+<b>Deployed Link </b>: https://prismatic-crumble-2790d3.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
